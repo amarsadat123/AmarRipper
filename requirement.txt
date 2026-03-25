@@ -1,0 +1,7 @@
+# AmarRipper Requirements
+# This tool uses Python 3 standard libraries.
+# No external dependencies are required for the core script.
+
+# Future modules may include:
+# requests>=2.25.1
+# colorama>=0.4.4
